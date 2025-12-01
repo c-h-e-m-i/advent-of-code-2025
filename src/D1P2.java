@@ -1,4 +1,4 @@
-// Solución: 5937
+// SOLUCIÓN: 5937
 
 import java.io.*;
 import java.util.*;
@@ -184,3 +184,4 @@ public class D1P2 {
     }
 
 }
+
