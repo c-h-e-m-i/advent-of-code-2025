@@ -1,3 +1,5 @@
+// Solución: 5937
+
 import java.io.*;
 import java.util.*;
 
@@ -180,4 +182,5 @@ public class D1P2 {
             return Objects.hash(a, b);
         }
     }
+
 }
