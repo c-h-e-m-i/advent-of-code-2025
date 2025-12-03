@@ -28,8 +28,8 @@ public class D3P2 {
             char[] linea = sc.nextLine().toCharArray();
 
             /*
-             * La lógica es igual que antes, solo que ahora en recorreremos hasta el
-             * elemento #12 por el final, el #11, el #10... y así sucesivamente:
+             * La lógica es igual que antes, solo que ahora empezaremos recorriendo hasta el
+             * elemento #12 por el final, luego el #11, el #10... y así sucesivamente:
              */
             int max[] = new int[12], ind = 0, numIter = 12;
 
@@ -178,4 +178,5 @@ public class D3P2 {
             return Objects.hash(a, b);
         }
     }
+
 }
