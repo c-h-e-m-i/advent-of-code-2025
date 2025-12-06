@@ -1,5 +1,3 @@
-// SOLUCIÓN: 8576933996
-
 import java.io.*;
 import java.util.*;
 
@@ -247,4 +245,5 @@ public class D2P1 {
             return Objects.hash(a, b);
         }
     }
+
 }
