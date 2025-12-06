@@ -1,5 +1,3 @@
-// SOLUCIÓN: 17155
-
 import java.io.*;
 import java.util.*;
 
@@ -182,4 +180,5 @@ public class D3P1 {
             return Objects.hash(a, b);
         }
     }
+
 }
