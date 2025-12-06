@@ -1,5 +1,3 @@
-// SOLUCIÓN: 1011
-
 import java.io.*;
 import java.util.*;
 
@@ -170,3 +168,4 @@ public class D1P1 {
     }
 
 }
+
