@@ -1,5 +1,3 @@
-// SOLUCIÓN: 169685670469164
-
 import java.io.*;
 import java.util.*;
 
@@ -180,3 +178,4 @@ public class D3P2 {
     }
 
 }
+
